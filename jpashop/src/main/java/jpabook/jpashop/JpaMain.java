@@ -18,8 +18,8 @@ public class JpaMain {
         tx.begin(); //트랜잭션 시작
 
         try {
-            tx.commit();//트랜잭션 커밋
 
+            tx.commit();//트랜잭션 커밋
         } catch (Exception e) {
             tx.rollback(); //트랜잭션 롤백
         } finally {
