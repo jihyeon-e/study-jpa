@@ -8,5 +8,6 @@
 1. [jpashop](https://github.com/jihyeon-e/study-jpa/tree/master/jpashop)
 
 ## 연관관계 매핑 기초
+1. [ex2-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-link-jpa)
 
 
