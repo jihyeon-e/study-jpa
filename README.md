@@ -5,9 +5,10 @@
 1. [ex1-hello-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex1-hello-jpa)
 
 ## 실전 예제 1 - 요구사항 분석과 기본 매핑
-1. [jpashop](https://github.com/jihyeon-e/study-jpa/tree/master/jpashop)
+1. [ex1-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/jpashop)
 
 ## 연관관계 매핑 기초
 1. [ex2-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-link-jpa)
 
-
+## 실전 예제 2 - 연관관계 매핑 시작
+1. [ex2-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/jpashop)

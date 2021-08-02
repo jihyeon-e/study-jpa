@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>jpabook</groupId>
-    <artifactId>jpashop</artifactId>
+    <groupId>com.inflearn</groupId>
+    <artifactId>ex2-jpa-shop</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -39,4 +39,5 @@
             <version>2.3.2</version>
         </dependency>
     </dependencies>
+
 </project>

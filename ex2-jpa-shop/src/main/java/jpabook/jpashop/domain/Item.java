@@ -49,12 +49,4 @@ public class Item {
         this.stockQuantity = stockQuantity;
     }
 
-    @Override
-    public String toString() {
-        return "Item{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", price=" + price +
-                '}';
-    }
 }
