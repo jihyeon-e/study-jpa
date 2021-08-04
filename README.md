@@ -2,16 +2,19 @@
 개인 공부를 하기위해 김영 강의 예제를 정리한 목록입니다.
 
 ## 영속성 관리 - 내부 동작 방식, 엔티티 매핑
-1. [ex1-hello-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex1-hello-jpa)
+[ex1-hello-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex1-hello-jpa)
 
 ## 실전 예제 1 - 요구사항 분석과 기본 매핑
-1. [ex1-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex1-jpa-shop)
+[ex1-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex1-jpa-shop)
 
 ## 연관관계 매핑 기초
-1. [ex2-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-link-jpa)
+[ex2-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-link-jpa)
 
 ## 실전 예제 2 - 연관관계 매핑 시작
-1. [ex2-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-jpa-shop)
+[ex2-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-jpa-shop)
 
 ## 다양한 연관관계 매핑
-1. [ex3-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex3-link-jpa)
+[ex3-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex3-link-jpa)
+
+## 실전 예제 3 - 다양한 연관관계 매핑
+[ex3-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex3-jpa-shop)
