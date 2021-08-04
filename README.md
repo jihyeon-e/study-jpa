@@ -12,3 +12,6 @@
 
 ## 실전 예제 2 - 연관관계 매핑 시작
 1. [ex2-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex2-jpa-shop)
+
+## 다양한 연관관계 매핑
+1. [ex3-link-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex3-link-jpa)
