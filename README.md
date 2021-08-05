@@ -24,3 +24,6 @@
 
 ### 실전 예제 4 - 고급 매핑
 [ex4-jpa-shop](https://github.com/jihyeon-e/study-jpa/tree/master/ex4-jpa-shop)
+
+## 5. 프록시와 연관관계 관리
+[ex5-proxy-jpa](https://github.com/jihyeon-e/study-jpa/tree/master/ex5-proxy-jpa)
